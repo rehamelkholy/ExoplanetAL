@@ -48,7 +48,6 @@ Final dataset:
 .
 ├── data/
 ├── notebooks/
-├── results/
 ├── requirements.txt
 └── README.md
 ```
@@ -74,9 +73,13 @@ pip install -r requirements.txt
 If you use this repository, please cite:
 
 ```bibtex
-@article{ElKholy2026,
-  author  = {El-Kholy, R. I. and Hayman, Z. M.},
-  title   = {Active Learning for Planet Habitability Classification under Extreme Class Imbalance},
-  year    = {2026}
+@misc{elkholy2026,
+title={Active Learning for Planet Habitability Classification under Extreme Class Imbalance}, 
+author={R. I. El-Kholy and Z. M. Hayman},
+year={2026},
+eprint={2602.23666},
+archivePrefix={arXiv},
+primaryClass={astro-ph.EP},
+url={https://arxiv.org/abs/2602.23666}, 
 }
 ```
